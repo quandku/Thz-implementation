@@ -1,0 +1,1 @@
+function[Sysparam,Simparam] = GenerateParam()
